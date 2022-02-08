@@ -1,0 +1,13 @@
+a=10
+b=4
+if(a>b):
+   st="a is greater than b"
+elif(a<b):
+   st="a is smaller than b"
+elif(a>=b):
+   st=" a is greater or equal to b"
+elif(a<=b):
+   st="a is smaller or equal to b"
+elif(a==b):
+   st="a is equal to b"
+print(st)
